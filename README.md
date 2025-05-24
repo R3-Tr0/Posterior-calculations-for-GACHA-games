@@ -4,10 +4,10 @@ This repository demonstrates Bayesian updating techniques applied to games and p
 
 Made specifically as part of the Final Requirements of the BS Statstics program in the subject "Survey Sampling" (CAS-05-601A A.Y. 2024, 2025) with the following proponents:
 
-Aquino, Aien Mariel
-Araullo, Joshua Bernard
-Castro, Simon
-Igcasenza, Vanessa Mae
+- Aquino, Aien Mariel
+- Araullo, Joshua Bernard
+- Castro, Simon
+- Igcasenza, Vanessa Mae
 
 ## Overview
 
