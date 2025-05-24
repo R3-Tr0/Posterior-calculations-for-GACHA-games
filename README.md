@@ -2,6 +2,13 @@
 
 This repository demonstrates Bayesian updating techniques applied to games and probabilistic events, including dice events, poker hands, and coin tosses. The examples harness Python libraries such as NumPy, SciPy, Matplotlib, and Tkinter to simulate observed events and plot posterior distributions.
 
+Made specifically as part of the Final Requirements of the BS Statstics program in the subject "Survey Sampling" (CAS-05-601A A.Y. 2024, 2025) with the following proponents:
+
+Aquino, Aien Mariel
+Araullo, Joshua Bernard
+Castro, Simon
+Igcasenza, Vanessa Mae
+
 ## Overview
 
 The repository contains three main sections:
@@ -99,7 +106,7 @@ def bayesian_update(event_key, n_dice, prob_type):
      plt.show()
 ```
 
-## Conclusion
+## Final Remarks
 
 This repository provides interactive examples to visualize how Bayesian inference can be applied to estimate unknown probabilities in gaming contexts and common probabilistic scenarios. Each module combines simulation, statistical modeling, and interactive user interfaces to provide clear insights into the impact of data on posterior distributions.
 
